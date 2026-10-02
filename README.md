@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro Henrique Teles 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Interesse principal: **Desenvolvimento Front-End** | Aprendendo também **Python**  
+💻 Interesse principal: **Desenvolvimento Back-End** | Aprendendo também **Java**  
 🌱 Iniciante motivado, sempre buscando aprender algo novo.
 
 ---
