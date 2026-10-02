@@ -8,14 +8,13 @@
 
 ## 📚 Sobre mim
 Estou no início da minha jornada na área de tecnologia e ainda construindo minha base de conhecimento.  
-Atualmente, estudo HTML, CSS e JavaScript, explorando também Python para entender lógica de programação e criar pequenas automações.  
+Atualmente, estudo Java e Git/GitHub, explorando também Python para entender lógica de programação e criar pequenas automações.  
 Meu objetivo é transformar teoria em prática através de pequenos projetos, desafios de programação e contribuições simples.
 
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
-- **Front-End:** HTML5, CSS3, JavaScript (ES6+)
-- **Programação:** Python
+- **Programação:** Java
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
